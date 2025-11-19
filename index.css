@@ -1,0 +1,23 @@
+header{
+    padding: 0.625em;
+    background: black;
+    color: white;
+    margin-bottom: 1.25em;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    width: auto;
+    padding: 0.625em;
+    display: inline-block;
+    transition-property: border,padding;
+    transition-duration: 0.3s;
+    border: 0.3125em solid rgb(197, 30, 30);
+}
+header a:hover{
+    border: 0.3125em solid darkred;
+}
+header a.active{
+    border: 0.3125em solid rgb(255, 30, 0);
+    background-color: rgb(30, 30, 30);
+}
