@@ -14,7 +14,7 @@ header a:first-child{
     display: block;
     text-align: start;
     border: none;
-    margin-right: 35%;
+    margin-right: auto;
 }
 header a:first-child:hover{
     border: none;    
@@ -29,7 +29,7 @@ header a img{
     width: 6.25em;
 }
 header a{
-    margin: 0px 0.125em;
+    margin: 0 0.125em;
     text-decoration: none;
     color: white;
     width: auto;
