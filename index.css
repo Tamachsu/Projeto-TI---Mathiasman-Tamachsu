@@ -1,10 +1,35 @@
 header{
     padding: 0.625em;
     background: black;
+    text-align: center;
     color: white;
     margin-bottom: 1.25em;
 }
+header div{
+    display: flex;
+    justify-content: center;
+}
+header a:first-child{
+    align-self: center;
+    display: block;
+    text-align: start;
+    border: none;
+    margin-right: 35%;
+}
+header a:first-child:hover{
+    border: none;    
+}
+
+header a:last-child{
+    margin-right: auto;
+}
+
+header a img{
+    display: inline-block;
+    width: 6.25em;
+}
 header a{
+    margin: 0px 0.125em;
     text-decoration: none;
     color: white;
     width: auto;
