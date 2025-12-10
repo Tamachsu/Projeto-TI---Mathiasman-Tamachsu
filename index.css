@@ -46,3 +46,52 @@ header a.active{
     border: 0.3125em solid rgb(255, 30, 0);
     background-color: rgb(30, 30, 30);
 }
+
+
+header+div{
+    margin-bottom: 3em;
+    margin-left: 1em;
+}
+
+body{
+    background-color: rgb(165, 165, 165);
+}
+div{
+    max-width: auto;
+    margin: 1em;
+}
+div p{
+    margin-left: 2em;
+}
+div .conteudo{
+    display: inline-flex;
+    align-items: center;
+}
+.conteudo img{
+    background-color: black;
+    justify-content: flex-end;
+}
+.conteiner{
+    background-color: rgb(54, 50, 58);
+    padding: 0.625em;
+    border: 0.3125em double black;
+    color: rgb(181, 0, 0);
+    margin: 0;
+}
+.conteudo{
+    margin: 1em;
+    padding: 1em;
+    border: 0.215em dotted black;
+}
+footer{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    padding: 0.625em;
+    background: black;
+    text-align: center;
+    color: white;
+}
+footer img{
+    width: 5em;
+}
