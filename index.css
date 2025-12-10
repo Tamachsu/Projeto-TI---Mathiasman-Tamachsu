@@ -112,7 +112,6 @@ footer img{
 
 footer p:last-child{
     align-self: center;
-    display: block;
-    text-align: center;
+    display: flex;
     margin-right: auto;
 }
