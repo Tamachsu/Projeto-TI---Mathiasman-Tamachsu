@@ -5,4 +5,4 @@ Projeto final da disciplina de Tecnologia da Internet
 Mathiasman Tamachsu
 
 ## Link para o site
-<img src="https://tamachsu.github.io/Projeto-TI---Mathiasman-Tamachsu/imagens/qr-code.png" width="150">
+<img src="https://tamachsu.github.io/Projeto-TI---Mathiasman-Tamachsu/qr-code.png" width="150">
