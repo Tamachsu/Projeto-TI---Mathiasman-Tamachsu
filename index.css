@@ -101,7 +101,6 @@ div .conteudo{
 footer{
     display: flex;
     flex-direction: row-reverse;
-    align-items: flex-end;
     padding: 0.625em;
     background: black;
     text-align: center;
@@ -109,4 +108,11 @@ footer{
 }
 footer img{
     width: 5%;
+}
+
+footer p:last-child{
+    align-self: center;
+    display: block;
+    text-align: center;
+    margin-right: auto;
 }
