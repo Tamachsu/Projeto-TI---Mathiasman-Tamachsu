@@ -78,18 +78,18 @@ div{
     color: rgb(181, 0, 0);
     margin: 0;
 }
-
+.coluna{
+    display: inline-flex;
+}
 .conteudo{
     margin: 1em;
     padding: 1em;
     border: 0.215em dotted black;
+    display: flex;
+    align-items: center;
 }
 .conteudo p{
     text-align: center;
-}
-div .conteudo{
-    display: flex;
-    align-items: center;
 }
 .conteudo img{
     background-color: black;
