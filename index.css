@@ -142,6 +142,9 @@ footer a{
 .imagem{
     max-width: 20em;
 }
+.imagem2{
+    max-width: 15em;
+}
 footer p:last-child{
     display: flex;
     margin-right: auto;
