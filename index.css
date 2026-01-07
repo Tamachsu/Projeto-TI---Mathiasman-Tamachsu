@@ -4,9 +4,14 @@
   .content {flex-direction: column;}
   .facts {grid-area: 3 / span 6;}
   .footer {grid-area: 4 / span 6;}
+  .imagens {max-width: 70%;}
 }
 @media (min-width: 700px) {
     div p{margin-left: 2em;}
+}
+
+@media (max-width: 970px){
+    .cont-char{flex-direction: column; margin-top: -1.25em;}
 }
 
 header{
@@ -134,7 +139,9 @@ footer a{
     text-decoration: none;
     color: white;
 }
-
+.imagem{
+    max-width: 20em;
+}
 footer p:last-child{
     display: flex;
     margin-right: auto;
