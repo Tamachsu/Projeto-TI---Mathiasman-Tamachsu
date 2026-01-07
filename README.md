@@ -5,6 +5,6 @@ Projeto final da disciplina de Tecnologia da Internet
 Mathiasman Tamachsu
 
 ## Link para o site
-https://tamachsu.github.io/Projeto-TI---Mathiasman-Tamachsu/content.html
+https://tamachsu.github.io/Projeto-TI---Mathiasman-Tamachsu/index.html
 
 <img src="https://tamachsu.github.io/Projeto-TI---Mathiasman-Tamachsu/qr-code.png" width="150">
